@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Demo210423</string>
+    <string name="yoga_trainer">Yoga Trainer</string>
+    <string name="kiara">kiara Jones</string>
+    <string name="yoga">Yoga Trainer</string>
+    <string name="time">10:00 AM -2.00 PM</string>
+    <string name="profile">View Profile</string>
+</resources>
