@@ -21,6 +21,8 @@ class ListAdapter(private val mList: List<Data>) :
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
         val itemDetail = mList[position]
         nListBinding.model = itemDetail
+
+        
     }
 
     override fun getItemCount(): Int {
